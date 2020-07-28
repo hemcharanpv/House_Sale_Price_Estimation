@@ -1,4 +1,4 @@
-# Project_2
+# Project_1
 
 Estimating the price of a house using some specified features.
 
